@@ -1,0 +1,6 @@
+Core Types
+1. number - all numbers, no differentiation between integers or floats
+2. string - all text values
+3. boolean - true/ false(truthsy, falsy)
+
+All core primitive types are in lowercase
